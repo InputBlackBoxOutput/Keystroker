@@ -1,0 +1,18 @@
+# Reports
+*.rpt
+
+# KiCAD backup
+*.bak
+*.bck
+*.kicad_pcb-bak
+*.sch-bak
+_saved_*
+
+# Netlists
+*.net
+
+# Footprint info cache
+fp-info-cache
+
+# Autosave files
+_autosave-*
