@@ -1,22 +1,22 @@
-"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
-1;" ";"Copyright_Front_Screen";1;"Copyright_Front_Screen";;;
-2;" ";"BlackBox_Back_Silkscreen";1;"BlackBox";;;
-3;"F1";"Fuseholder_Cylinder-5x20mm_Schurter_0031_8201_Horizontal_Open";1;"500mA";;;
-4;"J4";"PinHeader_1x03_P2.54mm_Vertical";1;"Power";;;
-5;"U3";"nRF24L01_Breakout";1;"NRF24L01_Breakout";;;
-6;"C3";"C_Disc_D8.0mm_W5.0mm_P5.00mm";1;"220nF";;;
-7;"C4,CS2";"CP_Radial_D5.0mm_P2.50mm";2;"22uF";;;
-8;"U2";"SOT-223-3_TabPin2";1;"AMS1117-3.3";;;
-9;"J3";"PinHeader_1x05_P2.54mm_Vertical";1;"Conn_01x05_Male";;;
-10;"J2";"PinHeader_1x04_P2.54mm_Vertical";1;"SPI";;;
-11;"SW2,SW1";"SW_TH_Tactile_Omron_B3F-10xx";2;"SW_Push";;;
-12;"J1";"USB_B_OST_USB-B1HSxx_Horizontal";1;"USB TYPE-B FEMALE";;;
-13;"Y1";"Crystal_HC49-U_Vertical";1;"8Mhz";;;
-14;"U1";"DIP-28_W7.62mm";1;"PIC18F2550-ISP";;;
-15;"R5,R4";"R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal";2;"10k";;;
-16;"R3,R2,R1";"R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal";3;"1k";;;
-17;"D3";"LED_D5.0mm";1;"GREEN LED";;;
-18;"D2";"LED_D5.0mm";1;"YELLOW LED";;;
-19;"D1";"LED_D5.0mm";1;"RED LED";;;
-20;"CS3,CS1";"CP_Radial_D5.0mm_P2.50mm";2;"10uF";;;
-21;"C2,C1";"C_Disc_D3.4mm_W2.1mm_P2.50mm";2;"22pF";;;
+"Id","Designator","Package","Quantity","Designation","Supplier and ref",
+1," ","BlackBox_Back_Silkscreen",1,"BlackBox",
+2," ","Copyright_Front_Screen",1,"Copyright_Front_Screen",
+3,"F1","SPST_Switch_large",1,"SW_SPST",
+4,"J4","PinHeader_1x03_P2.54mm_Vertical",1,"Power",
+5,"U3","nRF24L01_Breakout",1,"NRF24L01_Breakout",
+6,"C3","C_Disc_D8.0mm_W5.0mm_P5.00mm",1,"220nF",
+7,"C4,CS2","CP_Radial_D5.0mm_P2.50mm",2,"22uF",
+8,"U2","SOT-223-3_TabPin2",1,"AMS1117-3.3",
+9,"J3","PinHeader_1x05_P2.54mm_Vertical",1,"Conn_01x05_Male",
+10,"J2","PinHeader_1x04_P2.54mm_Vertical",1,"SPI",
+11,"SW2,SW1","SW_TH_Tactile_Omron_B3F-10xx",2,"SW_Push",
+12,"J1","USB_B_OST_USB-B1HSxx_Horizontal",1,"USB TYPE-B FEMALE",
+13,"Y1","Crystal_HC49-U_Vertical",1,"8Mhz",
+14,"U1","DIP-28_W7.62mm",1,"PIC18F2550-ISP",
+15,"R5,R4","R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal",2,"10k",
+16,"R3,R2,R1","R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal",3,"1k",
+17,"D3","LED_D5.0mm",1,"GREEN LED",
+18,"D2","LED_D5.0mm",1,"YELLOW LED",
+19,"D1","LED_D5.0mm",1,"RED LED",
+20,"CS3,CS1","CP_Radial_D5.0mm_P2.50mm",2,"10uF",
+21,"C2,C1","C_Disc_D3.4mm_W2.1mm_P2.50mm",2,"22pF",
