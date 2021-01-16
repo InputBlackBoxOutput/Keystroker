@@ -14,17 +14,6 @@ Comment2 "Designed by Rutuparn Pawar "
 Comment3 ""
 Comment4 ""
 $EndDescr
-$Comp
-L Device:Crystal Y1
-U 1 1 5D611CBC
-P 2300 4825
-F 0 "Y1" H 2300 5093 50  0000 C CNN
-F 1 "8Mhz" H 2300 5002 50  0000 C CNN
-F 2 "Crystal:Crystal_HC49-U_Vertical" H 2300 4825 50  0001 C CNN
-F 3 "~" H 2300 4825 50  0001 C CNN
-	1    2300 4825
-	0    -1   -1   0   
-$EndComp
 Wire Wire Line
 	2700 4775 2700 4675
 $Comp
@@ -521,7 +510,7 @@ U 1 1 5FF4F41F
 P 8475 1700
 F 0 "SW3" H 8475 1935 50  0000 C CNN
 F 1 "SW_SPST" H 8475 1844 50  0000 C CNN
-F 2 "Board:switch" H 8475 1700 50  0001 C CNN
+F 2 "Button_Switch_SMD:SW_SPST_EVQPE1" H 8475 1700 50  0001 C CNN
 F 3 "~" H 8475 1700 50  0001 C CNN
 	1    8475 1700
 	1    0    0    -1  
@@ -634,5 +623,16 @@ F 2 "MountingHole:MountingHole_2.1mm" H 6150 7375 50  0001 C CNN
 F 3 "~" H 6150 7375 50  0001 C CNN
 	1    6150 7375
 	1    0    0    -1  
+$EndComp
+$Comp
+L Device:Crystal Y1
+U 1 1 5D611CBC
+P 2300 4825
+F 0 "Y1" H 2300 5093 50  0000 C CNN
+F 1 "8Mhz" H 2300 5002 50  0000 C CNN
+F 2 "Crystal:Crystal_HC49-U_Vertical" H 2300 4825 50  0001 C CNN
+F 3 "~" H 2300 4825 50  0001 C CNN
+	1    2300 4825
+	0    -1   -1   0   
 $EndComp
 $EndSCHEMATC
