@@ -1,0 +1,15 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F2550 -DL -O11111114 -fo48 -N"C:\Users\admin\Desktop\Github\Keystroker\firmware\INGAME\INGAME.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -SP"C:\Users\admin\Desktop\Github\Keystroker\firmware\INGAME\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -IP"C:\Users\admin\Desktop\Github\Keystroker\firmware\INGAME\" "main.c" "keyboard.c" "USBdsc.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CType.mcl" "__Lib_USB_genHID.mcl"	 
+hint: 0	1139	Available RAM: 2027 [bytes], Available ROM: 32768 [bytes]	 
+diagnostics: 0	122	Compilation Started	stdint.h
+diagnostics: 22	123	Compiled Successfully	main.c
+diagnostics: 0	122	Compilation Started	stdint.h
+diagnostics: 215	123	Compiled Successfully	keyboard.c
+diagnostics: 0	122	Compilation Started	USBdsc.c
+diagnostics: 193	123	Compiled Successfully	USBdsc.c
+diagnostics: 0	127	All files Compiled in 328 ms	 
+hint: 0	1144	Used RAM (bytes): 273 (13%)  Free RAM (bytes): 1754 (87%)	Used RAM (bytes): 273 (13%)  Free RAM (bytes): 1754 (87%)
+hint: 0	1144	Used ROM (bytes): 6892 (21%)  Free ROM (bytes): 25876 (79%)	Used ROM (bytes): 6892 (21%)  Free ROM (bytes): 25876 (79%)
+diagnostics: 0	125	Project Linked Successfully	INGAME.mcppi
+diagnostics: 0	128	Linked in 94 ms	 
+diagnostics: 0	129	Project 'INGAME.mcppi' completed: 453 ms	 
+diagnostics: 0	103	Finished successfully: 21 Jan 2021, 09:04:29	INGAME.mcppi
