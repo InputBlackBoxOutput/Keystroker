@@ -1,7 +1,7 @@
 # Keystroker
 A USB HID device to perform USB drop attack
 
-![MR. ROBOT](docs/mr_robot.jpg)
+![MR. ROBOT](docs/mr_robot.png)
 
 Research presented at BlackHat USA 2016 by Elie Bursztein of Google’s anti-abuse research team shows that the danger is alarmingly real!
 
