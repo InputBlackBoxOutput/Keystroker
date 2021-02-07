@@ -1,0 +1,15 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F2550 -DL -O11111114 -fo48 -N"C:\Users\admin\Desktop\Github\Keystroker\firmware\Guy Fawkes\mask.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -SP"C:\Users\admin\Desktop\Github\Keystroker\firmware\Guy Fawkes\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -IP"C:\Users\admin\Desktop\Github\Keystroker\firmware\Guy Fawkes\" "main.c" "keyboard.c" "USBdsc.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CType.mcl" "__Lib_USB_genHID.mcl"	 
+hint: 0	1139	Available RAM: 2027 [bytes], Available ROM: 32768 [bytes]	 
+diagnostics: 0	122	Compilation Started	stdint.h
+diagnostics: 48	123	Compiled Successfully	main.c
+diagnostics: 0	122	Compilation Started	stdint.h
+diagnostics: 215	123	Compiled Successfully	keyboard.c
+diagnostics: 0	122	Compilation Started	USBdsc.c
+diagnostics: 193	123	Compiled Successfully	USBdsc.c
+diagnostics: 0	127	All files Compiled in 297 ms	 
+hint: 0	1144	Used RAM (bytes): 1352 (67%)  Free RAM (bytes): 675 (33%)	Used RAM (bytes): 1352 (67%)  Free RAM (bytes): 675 (33%)
+hint: 0	1144	Used ROM (bytes): 8387 (26%)  Free ROM (bytes): 24381 (74%)	Used ROM (bytes): 8387 (26%)  Free ROM (bytes): 24381 (74%)
+diagnostics: 0	125	Project Linked Successfully	mask.mcppi
+diagnostics: 0	128	Linked in 156 ms	 
+diagnostics: 0	129	Project 'mask.mcppi' completed: 515 ms	 
+diagnostics: 0	103	Finished successfully: 05 Feb 2021, 12:04:47	mask.mcppi
