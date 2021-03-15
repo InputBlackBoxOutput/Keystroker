@@ -10,11 +10,11 @@ Research presented at BlackHat USA 2016 by Elie Bursztein of Google’s anti-abu
 ## How it works?
 ![USB Drop Attack](docs/usb_drop_attack.png)
 
-[Know more by reading this instructables](https://www.instructables.com/Keystroker-USB-Drop-Attack/)
+[Know more by reading these instructables](https://www.instructables.com/Keystroker-USB-Drop-Attack/)
 
 ## Steps to build the Keystroker 
-1. Procure electronics components from a realiable source
-1. Send the gerber files to a PCB manufacturer to get a PCB made
+1. Procure electronics components from a reliable source
+1. Send the Gerber files to a PCB manufacturer to get a PCB made
 1. 3D print the enclosure
 1. Solder the components on the PCB, upload the firmware and test
 1. Finally, mount the PCB in the enclosure
