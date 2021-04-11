@@ -28,4 +28,7 @@ Research presented at BlackHat USA 2016 by Elie Bursztein of Google’s anti-abu
 1. Connect the pins of the USB type A plug to the USB receptacle pads
 1. Upload the firmware 
 
+### Demo 
+![Demo](pro micro\images\demo.gif)
+
 ### Made with lots of ⏱️, 📚 and ☕ by InputBlackBoxOutput
