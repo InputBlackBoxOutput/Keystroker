@@ -29,6 +29,6 @@ Research presented at BlackHat USA 2016 by Elie Bursztein of Google’s anti-abu
 1. Upload the firmware 
 
 ### Demo 
-![Demo](pro micro\images\demo.gif)
+![Demo](https://github.com/InputBlackBoxOutput/Keystroker/blob/main/pro%20micro/images/demo.gif)
 
 ### Made with lots of ⏱️, 📚 and ☕ by InputBlackBoxOutput
